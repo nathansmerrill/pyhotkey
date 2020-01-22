@@ -1,3 +1,4 @@
-# Pyhotkey
-- A hotkey program
-- Written in python
+# PyHotkey
+A hotkey program
+Written and configured in python
+# Installation
