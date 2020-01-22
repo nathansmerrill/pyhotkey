@@ -1,5 +1,5 @@
 # PyHotkey
-A hotkey program
+A hotkey program  
 Written and configured in python
 # Installation
 ```
