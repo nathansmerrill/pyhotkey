@@ -38,4 +38,6 @@ def handleCapsLockReleased():
 @pyhotkey.mHotkey(Button.button8)
 def handleBackButton():
     print('Mouse back button pressed')
+
+pyhotkey.runHotkeys()
 ```
