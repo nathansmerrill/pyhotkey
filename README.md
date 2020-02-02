@@ -4,7 +4,7 @@ Written and configured in python
 # Installation
 ```
 $ git clone https://github.com/nathansmerrill/pyhotkey ~/pyhotkey
-$ pip install ~/pyhotkey/requirements.txt
+$ pip install -r ~/pyhotkey/requirements.txt
 ```
 Set `~/pyhotkey/pyhotkeyrc.py` to run on startup
 # Configuration
